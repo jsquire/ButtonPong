@@ -8,7 +8,7 @@ The Particle Internet Button was chosen for this project for several reasons:
 1. Particle provides an online IDE for publishing to the devices with a comprehensive sample library
 1. It has built-in WiFi so it's just "connect and go"
 
-## Registering Your Devie
+## Registering Your Device
 
 Start by registering your button and setting up the WiFi. The button's brain is a Particle Photon, so follow the [setup instructions provided by Particle](https://docs.particle.io/guide/tools-and-features/button/core/). This can be done via the Apple or Android apps, USB, or [from your computer](https://setup.particle.io/). The Photon is a 'headless' device, so if your WiFi requires you to log in via a web page, you'll need to talk with your WiFi administrators about how to register your device's MAC address. For details on obtaining the device's MAC address, please refer to this [blog post](https://blog.jongallant.com/2015/08/particle-photon-mac-address/).
 
