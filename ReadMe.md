@@ -60,6 +60,10 @@ As has been mentioned, this game implementation stops short of many features tha
     * **src**
       _The implementation of the device game client.  Please see the accompanying ReadMe in this directory for information specific to this implementation._
 
+## Warning
+
+This project was a point-in-time experiment and is not actively maintained.  Assets have aged and may have security vulnerabilities.  It is highly recommended that dependencies aare updated before making use of any project assets.
+
 ## Licensing
 
 The artifacts in this repository are offered under the MIT license, as described in the accompanying [license](./LICENSE "license") file.  Feel free to use the code in your own projects or the documents as templates as you see fit.  In general, formal attribution is not necessary, though it is always appreciated.  We do ask, however, that you not copy an item verbatim and pass it off as your own work.
